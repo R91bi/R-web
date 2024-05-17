@@ -1,1 +1,19 @@
-just css
+body {
+  background-color: #f0e6fa; /* Light lavender background */
+  font-family: cursive; /* Use a cursive font for a cute touch */
+}
+
+h1 {
+  color: #8e44ad; /* Light purple for headings */
+  margin-bottom: 10px; /* Add some space between headings */
+}
+
+h3 {
+  color: #3ba9e7; /* Bright blue for the introduction */
+  margin-top: 20px; /* Add space after the intro */
+}
+
+h4{
+  color: #3ba9e7; /* Bright blue for the introduction */
+  margin-top: 20px; /* Add space after the intro */
+}just css
