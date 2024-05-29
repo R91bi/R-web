@@ -16,4 +16,21 @@ h3 {
 h4{
   color: #3ba9e7; /* Bright blue for the introduction */
   margin-top: 20px; /* Add space after the intro */
-}just css
+}
+
+
+
+.friend-list {
+  list-style: none; /* Remove default dots */
+  color: none;
+  padding: 0;
+}
+
+.friend-list li {
+  color: transparent; /* Hide default text color */
+}
+
+.friend-list li:hover {
+  color: #ffc1ce; /* Cute hover color (light pink) */
+  text-decoration: underline dotted 2px #ffc1ce; /* Add a dotted underline on hover */
+}
